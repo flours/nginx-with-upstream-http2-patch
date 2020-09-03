@@ -6,3 +6,4 @@ nginxのmailinglistのパッチです。
 http://mailman.nginx.org/pipermail/nginx-devel/2017-June/010209.html
 
 nginxのバージョンは1.13.2と1.13.1の間のmercurialのリポジトリrivision7039です。
+サーバーからのpushには対応してないようなのでおそらくもう使いません。
